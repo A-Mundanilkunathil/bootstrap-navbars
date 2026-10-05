@@ -32,3 +32,13 @@ a {
   background-color: rgb(48,73,95);
   color: white;
 }
+
+/* navbar 5, dukes colors. scoped like buzzs so navbar 1 keeps its own color */
+.dukes {
+  background-color: #017574;
+  color: white;
+}
+
+.dukes .nav-link {
+  color: white;
+}

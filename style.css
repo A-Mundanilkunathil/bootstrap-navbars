@@ -1,0 +1,10 @@
+/* used AI to help build the navbars and check them against the examples */
+
+/* navbar 1, boardroom colors */
+.container-fluid {
+  background-color: #133B40;
+}
+
+a {
+  color: white;
+}

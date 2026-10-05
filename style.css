@@ -26,3 +26,9 @@ a {
   padding-top: 0px;
   color: black;
 }
+
+/* navbar 3, buzzs colors. scoped to its own class so it doesnt override navbar 1 */
+.buzzs {
+  background-color: rgb(48,73,95);
+  color: white;
+}
